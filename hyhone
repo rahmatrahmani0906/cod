@@ -1,0 +1,3 @@
+namn = input ("vad heter du") 
+ålder = int( input "hur gammal är du(eller fyller du i år)? ")
+print ("Du är född",ungfär år(föd).")
