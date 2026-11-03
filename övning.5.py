@@ -1,0 +1,2 @@
+status= "goodkänt"
+print

@@ -1,0 +1,2 @@
+t4 = "jag har \u23663 kung2"
+print( t4)
